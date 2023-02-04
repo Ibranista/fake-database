@@ -1,0 +1,60 @@
+{
+  "events": [
+  {
+    "id": 1245,
+    "category": "animal kingdom",
+    "title": "Cat Adoption Day",
+    "description": "Animal Kingdom is hosting a cat adoption day on the 34th of August. Come and adopt a furry friend!",
+    "location": "Addis Ababa",
+    "date": "34/08/2022",
+    "time": "10:00am",
+    "petsAllowed": true,
+    "organizer": "Ibraheem"
+  },
+  {
+    "id": 1246,
+    "category": "entertainment",
+    "title": "Concert Night",
+    "description": "Join us for a night of music and entertainment, featuring top local artists.",
+    "location": "Addis Ababa",
+    "date": "22/08/2022",
+    "time": "7:00pm",
+    "petsAllowed": false,
+    "organizer": "Tewodros"
+  },
+  {
+    "id": 1247,
+    "category": "sports",
+    "title": "Football Tournament",
+    "description": "Come and support your favorite team in a day-long football tournament. Refreshments will be available.",
+    "location": "Addis Ababa",
+    "date": "15/08/2022",
+    "time": "9:00am",
+    "petsAllowed": false,
+    "organizer": "Daniel"
+  },
+  {
+    "id": 1248,
+    "category": "education",
+    "title": "Workshop on Entrepreneurship",
+    "description": "Learn from experienced entrepreneurs on how to start and run a successful business.",
+    "location": "Addis Ababa",
+    "date": "29/08/2022",
+    "time": "1:00pm",
+    "petsAllowed": false,
+    "organizer": "Sarah"
+  },
+  {
+    "id": 1249,
+    "category": "nature",
+    "title": "Camping Trip",
+    "description": "Join us for a weekend of camping and outdoor activities. Fun for the whole family!",
+    "location": "Addis Ababa",
+    "date": "21/08/2022",
+    "time": "8:00am",
+    "petsAllowed": true,
+    "organizer": "Michael"
+  }
+]
+
+}
